@@ -1,0 +1,159 @@
+ul {
+    margin: 0.25em 0 0.25em 1.5em;
+    padding-left: 0;
+}
+
+#footer {
+	background-color: #56565a;
+	padding-bottom: 30px;
+}
+
+#footer-links1 {
+	margin-bottom: 20px;
+}
+#more-than-books img {
+	height: 32px;
+	margin-top: 20px;
+}
+#apl-connect {
+	text-decoration: none;
+	color: white;
+	text-align: right;
+	display: inherit;
+	margin: 10px 0;
+}
+#connect-with-us {
+	margin-top: 20px;
+}
+.social {
+	height: 32px;
+}
+
+#block-panels-mini-footer-container .inside {
+	display: flex;
+	max-width: 960px;
+	margin: 0 auto;
+	justify-content: space-between;
+}
+#footer li a {
+	color: white;
+	text-decoration: none;
+}
+#links-container {
+	display: flex;
+	justify-content: left;
+	width: 500px;
+}
+#footer-links1 {
+	margin: 0;
+}
+#footer ul {
+	list-style-type: none;
+}
+#footer-links {
+	border-left: 1px solid white;
+	padding-left: 20px;
+}
+#connect-with-us ul li {
+	background-position: center bottom;
+	background-repeat: no-repeat;
+	background-size: 32px auto;
+	cursor: pointer;
+	display: block;
+	float: left;
+	height: 32px;
+	margin-right: 5px;
+	width: 32px;
+}
+
+body #more-than-books h2.pane-title {
+	margin-left: 5px;
+	background-image: url("https://library.austintexas.gov/library/misc/more_than_books_tagline-01b.jpg") !important;
+	margin-top: 5px;
+	background-color: transparent !important;
+}
+#apl_logo img {
+	height: 85px !important;
+}
+#block-block-155 {
+	margin-bottom: 0 !important;
+}
+.input-group input[type="submit"] {
+	height: 48px !important;
+	padding: 10px !important;
+}
+.layout--onecol {
+	padding: 0 !important;
+}
+#block-block-93 {
+	max-width: 960px;
+	margin: 0 auto;
+}
+
+.top-my, .top-es {
+	float: none !important;
+	list-style: none;
+}
+
+#apl-top-nav {
+	text-align: right;
+}
+.field.field--name-title.field--type-string.field--label-hidden {
+	padding-top: 10px;
+}
+.block.block-layout-builder.block-field-blocknodelibrary-infotitle,
+.block.block-layout-builder.block-field-blocknodelibrary-infobody {
+	padding: 0 15px;
+}
+.usa-button.usa-button-outline.apl-translate {
+	float: right;
+	margin-left: 20px;
+}
+h2 {
+	margin-top: 10px;
+}
+
+h3 {
+	margin-top: 30px;
+}
+.block-layout-builder .field--name-title, h1 {
+	font-size: 39px;
+	line-height: 1.15em;
+	font-weight: 700;
+	display: block;
+	margin-bottom: 30px;
+}
+.d-col-3 > div {
+	padding: 1px 15px;
+}
+.d-col-9 {
+	width: 580px !important;
+  
+}
+.d-col-3,
+.d-col-9 {
+	background: white;
+	box-shadow: 3px 3px 8px silver;
+	margin-bottom: 20px;
+	margin-right: 0 !important;
+	margin-top: 0;
+	padding-bottom: 30px;
+}
+#apl-connect:hover,
+#footer li a:hover {
+	color: white;
+	text-decoration: underline;
+}
+#block-views-block-sections-block-6 span {
+	display: none;
+}
+body #more-than-books h2.pane-title {
+	margin-left: 5px;
+	background-image: url("https://library.austintexas.gov/library/misc/more_than_books_tagline-01b.jpg") !important;
+	text-indent: -9999px;
+	background-color: transparent !important;
+	display: block;
+	background-size: 220px;
+	background-repeat: no-repeat;
+	margin-top: 20px;
+}
