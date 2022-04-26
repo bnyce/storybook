@@ -35,9 +35,11 @@ ul {
 	margin: 0 auto;
 	justify-content: space-between;
 }
+
 #footer li a {
-	color: white;
-	text-decoration: none;
+    color: white;
+    text-decoration: none;
+    line-height: 24px;
 }
 #links-container {
 	display: flex;
