@@ -1,3 +1,6 @@
+import '../src/index.css';
+import '../src/components/Reservation.css';
+
 export const parameters = {
   actions: { argTypesRegex: "^on[A-Z].*" },
   controls: {
