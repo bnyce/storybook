@@ -1,3 +1,84 @@
+.reservation-list .slr_reservation {
+	margin-bottom: 2px;
+	padding: 2px;
+	position: absolute;
+    overflow: hidden;
+    width: 10%;
+}
+
+.reservation-list .name,
+.reservation-list .email,
+.reservation-list .room,
+.reservation-list .how_many {
+	display: none;
+}
+
 .slr_reservation > div {
 	width: 100%;
+}
+/*
+.room-3794 {
+  background: #ade4e5 !important; 
+}
+*/
+
+.room-3787 { 
+	left: 0;
+      background: #FFD700 !important;
+
+}
+.room-3788 {
+    left: 0;
+      background: #a9dd8e !important;
+
+}
+.room-3789 {
+	left: 10%;
+      background: #a9dd8e !important; 
+
+}
+.room-3790 {
+	left: 20%;
+      background: #a9dd8e !important;
+
+}
+.room-3792 {
+	left: 30%;
+      background: #ade4e5 !important; 
+
+}
+.room-3793 {
+	left: 40%;
+      background: #ade4e5 !important; 
+
+}
+.room-3796 {
+	left: 50%;
+      background: #ade4e5 !important; 
+
+}
+.room-3797 {
+	left: 60%;
+      background: #fcecc8 !important;
+
+}
+.room-3798 {
+	left: 60%;
+      background: #fcecc8 !important; 
+
+}
+.room-3799 {
+	left: 70%;
+      background: #fcecc8 !important;
+
+}
+.room-3800 {
+	left: 80%;
+      background: #fcecc8 !important; 
+
+}
+.room-3801 {
+	left: 90%;
+      background: #fcecc8 !important; 
+
 }
