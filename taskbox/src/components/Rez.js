@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default function Reservation({ reservation: { id, title, name, email, how_many, room, room_id, date, time_start, time_end, state, status }, onArchiveTask, onPinTask }) {
+export default function Rez({ rez: { id, title, name, email, how_many, room, room_id, date, time_start, time_end, state, status }, onArchiveTask, onPinTask }) {
   return (
     <div className={`slr_reservation room-${room_id} ${status}`}>
 <div className="title">{`${title}`}</div>
