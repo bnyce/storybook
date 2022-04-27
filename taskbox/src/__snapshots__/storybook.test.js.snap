@@ -1,0 +1,1328 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Footer Default 1`] = `
+<div
+  class="content_footer"
+>
+  <div
+    class="region region-content-footer"
+  >
+    <div
+      class="views-element-container block block-views block-views-blocksections-block-6"
+      id="block-views-block-sections-block-6"
+    >
+      <div>
+        <div
+          class="view view-sections view-id-sections view-display-id-block_6 js-view-dom-id-c3e5eb7cea7a787164376711462f6d465b47fc78dca90086b9f95c5f8e9a66cc"
+        >
+          <div
+            class="view-content"
+          >
+            <div>
+              <div
+                class="views-field views-field-body"
+              >
+                <div
+                  class="field-content"
+                >
+                  <div
+                    class="region region-footer"
+                    id="footer"
+                    role="contentinfo"
+                  >
+                    <div
+                      id="block-panels-mini-footer-container"
+                    >
+                      <div
+                        class="panel-display panel-2col clearfix"
+                        id="mini-panel-footer_container"
+                      >
+                        <div
+                          class="panel-panel panel-col-first"
+                        >
+                          <div
+                            class="inside"
+                          >
+                            <div
+                              class="panel-pane"
+                              id="more-than-books"
+                            >
+                              <h2
+                                class="pane-title"
+                              >
+                                more than books
+                              </h2>
+                              <div
+                                aria-label="library footer navigation"
+                                class="menu-name-menu-apl-footer-2014"
+                                id="links-container"
+                                role="navigation"
+                              >
+                                <ul
+                                  class="menu"
+                                  id="footer-links1"
+                                >
+                                  <li>
+                                    <a
+                                      href="http://austin.countingopinions.com"
+                                    >
+                                      How are we doing?
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="/volunteer"
+                                    >
+                                      Volunteer at the Library
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="https://www.austincityjobs.org/postings/search?query=&query_posted_at=&query_organizational_tier_3_id=40"
+                                    >
+                                      Work for the Library
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="/support"
+                                    >
+                                      Support the Library
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="/about-library/policies"
+                                    >
+                                      Policies
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="/about-library/accessibility"
+                                    >
+                                      Accessibility
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="/about-library/contact"
+                                    >
+                                      Contact Us
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="/press"
+                                    >
+                                      Press
+                                    </a>
+                                  </li>
+                                </ul>
+                                <ul
+                                  id="footer-links"
+                                >
+                                  <li>
+                                    <a
+                                      href="/"
+                                    >
+                                      Austin Public Library
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="/ahc"
+                                    >
+                                      Austin History Center
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="/recycled-reads"
+                                    >
+                                      Recycled Reads Bookstore
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
+                            </div>
+                            <div
+                              aria-label="social media navigation"
+                              class="panel-pane"
+                              id="connect-with-us"
+                              role="navigation"
+                            >
+                              <div
+                                class="menu-name-menu-apl-footer-2014"
+                              >
+                                <ul
+                                  class="social"
+                                >
+                                  <li
+                                    class="fb"
+                                  >
+                                    <a
+                                      href="https://www.facebook.com/AustinLibrary"
+                                      title="Austin Public Library on Facebook"
+                                    >
+                                      <img
+                                        alt="Facebook logo"
+                                        height="32"
+                                        src="https://library.austintexas.gov/library/facebook512_0.png"
+                                        width="32"
+                                      />
+                                      <span>
+                                        Austin Public Library on Facebook
+                                      </span>
+                                    </a>
+                                  </li>
+                                  <li
+                                    class="twi"
+                                  >
+                                    <a
+                                      href="https://twitter.com/AustinPublicLib"
+                                      title="Austin Public Library on Twitter"
+                                    >
+                                      <img
+                                        alt="Twitter logo"
+                                        height="32"
+                                        src="https://library.austintexas.gov/library/twitter512_0.png"
+                                        width="32"
+                                      />
+                                      <span>
+                                        Austin Public Library on Twitter
+                                      </span>
+                                    </a>
+                                  </li>
+                                  <li
+                                    class="fl"
+                                  >
+                                    <a
+                                      href="https://www.flickr.com/photos/austinpubliclibrary/"
+                                    >
+                                      <img
+                                        alt="Flickr logo"
+                                        height="32"
+                                        src="https://library.austintexas.gov/library/flickr512.png"
+                                        width="32"
+                                      />
+                                      <span>
+                                        APL on Flickr
+                                      </span>
+                                    </a>
+                                  </li>
+                                  <li
+                                    class="ig"
+                                  >
+                                    <a
+                                      href="http://instagram.com/austinpubliclibrary"
+                                    >
+                                      <img
+                                        alt="Instagram logo"
+                                        height="32"
+                                        src="https://library.austintexas.gov/library/misc/instagram-logo-white.png"
+                                        width="32"
+                                      />
+                                      <span>
+                                        Austin Public Library on Instagram
+                                      </span>
+                                    </a>
+                                  </li>
+                                  <li
+                                    class="yt"
+                                  >
+                                    <a
+                                      href="http://www.youtube.com/user/aplacmc"
+                                      title="Austin Public Library on Youtube"
+                                    >
+                                      <img
+                                        alt="Youtube logo"
+                                        src="https://library.austintexas.gov/library/youtube512.png"
+                                        width="32"
+                                      />
+                                      <span>
+                                        Austin Public Library on YouTube
+                                      </span>
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
+                              <a
+                                href="/social"
+                                id="apl-connect"
+                              >
+                                Connect with us
+                              </a>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Reservation Awaiting 1`] = `
+<div
+  className="slr_reservation room-undefined RESERVATION_AWAITING"
+>
+  <div
+    className="title"
+  >
+    Test Reservation
+  </div>
+  <div
+    className="name"
+  >
+    Full Name: 
+    John Doe
+  </div>
+  <div
+    className="email"
+  >
+    Email: 
+    john@example.com
+  </div>
+  <div
+    className="how_many"
+  >
+    How many people? 
+    2
+  </div>
+  <div
+    className="room"
+  >
+    Room: 
+    Shared Learning - 531
+  </div>
+  <div
+    className="date"
+  >
+    Tuesday, April 26, 2022
+  </div>
+  <div
+    className="time"
+  >
+    9:00 AM
+     - 
+    11:00 AM
+  </div>
+  <div
+    className="status"
+  >
+    <span
+      id="slr_status"
+    >
+      RESERVATION_AWAITING
+    </span>
+  </div>
+  <span
+    id="slr_update"
+  />
+  <div
+    id="update_status"
+  />
+</div>
+`;
+
+exports[`Storyshots Reservation Confirmed 1`] = `
+<div
+  className="slr_reservation room-undefined RESERVATION_CONFIRMED"
+>
+  <div
+    className="title"
+  >
+    Test Reservation
+  </div>
+  <div
+    className="name"
+  >
+    Full Name: 
+    John Doe
+  </div>
+  <div
+    className="email"
+  >
+    Email: 
+    john@example.com
+  </div>
+  <div
+    className="how_many"
+  >
+    How many people? 
+    2
+  </div>
+  <div
+    className="room"
+  >
+    Room: 
+    Shared Learning - 531
+  </div>
+  <div
+    className="date"
+  >
+    Tuesday, April 26, 2022
+  </div>
+  <div
+    className="time"
+  >
+    9:00 AM
+     - 
+    11:00 AM
+  </div>
+  <div
+    className="status"
+  >
+    <span
+      id="slr_status"
+    >
+      RESERVATION_CONFIRMED
+    </span>
+  </div>
+  <span
+    id="slr_update"
+  />
+  <div
+    id="update_status"
+  />
+</div>
+`;
+
+exports[`Storyshots Reservation Default 1`] = `
+<div
+  className="slr_reservation room-undefined RESERVATION_AWAITING"
+>
+  <div
+    className="title"
+  >
+    Test Reservation
+  </div>
+  <div
+    className="name"
+  >
+    Full Name: 
+    John Doe
+  </div>
+  <div
+    className="email"
+  >
+    Email: 
+    john@example.com
+  </div>
+  <div
+    className="how_many"
+  >
+    How many people? 
+    2
+  </div>
+  <div
+    className="room"
+  >
+    Room: 
+    Shared Learning - 531
+  </div>
+  <div
+    className="date"
+  >
+    Tuesday, April 26, 2022
+  </div>
+  <div
+    className="time"
+  >
+    9:00 AM
+     - 
+    11:00 AM
+  </div>
+  <div
+    className="status"
+  >
+    <span
+      id="slr_status"
+    >
+      RESERVATION_AWAITING
+    </span>
+  </div>
+  <span
+    id="slr_update"
+  />
+  <div
+    id="update_status"
+  />
+</div>
+`;
+
+exports[`Storyshots Reservation Expired 1`] = `
+<div
+  className="slr_reservation room-undefined RESERVATION_EXPIRED"
+>
+  <div
+    className="title"
+  >
+    Test Reservation
+  </div>
+  <div
+    className="name"
+  >
+    Full Name: 
+    John Doe
+  </div>
+  <div
+    className="email"
+  >
+    Email: 
+    john@example.com
+  </div>
+  <div
+    className="how_many"
+  >
+    How many people? 
+    2
+  </div>
+  <div
+    className="room"
+  >
+    Room: 
+    Shared Learning - 531
+  </div>
+  <div
+    className="date"
+  >
+    Tuesday, April 26, 2022
+  </div>
+  <div
+    className="time"
+  >
+    9:00 AM
+     - 
+    11:00 AM
+  </div>
+  <div
+    className="status"
+  >
+    <span
+      id="slr_status"
+    >
+      RESERVATION_EXPIRED
+    </span>
+  </div>
+  <span
+    id="slr_update"
+  />
+  <div
+    id="update_status"
+  />
+</div>
+`;
+
+exports[`Storyshots ReservationList Default 1`] = `
+<div
+  style={
+    Object {
+      "padding": "3rem",
+    }
+  }
+>
+  <div
+    className="reservation-list"
+  >
+    <div
+      className="slr_reservation room-3793 Confirmed"
+    >
+      <div
+        className="title"
+      >
+        Internal Use
+      </div>
+      <div
+        className="name"
+      >
+        Full Name: 
+        undefined
+      </div>
+      <div
+        className="email"
+      >
+        Email: 
+        undefined
+      </div>
+      <div
+        className="how_many"
+      >
+        How many people? 
+        3
+      </div>
+      <div
+        className="room"
+      >
+        Room: 
+        undefined
+      </div>
+      <div
+        className="date"
+      >
+        Tuesday, April 26, 2022
+      </div>
+      <div
+        className="time"
+      >
+        9:00 AM
+         - 
+        11:00 AM
+      </div>
+      <div
+        className="status"
+      >
+        <span
+          id="slr_status"
+        >
+          Confirmed
+        </span>
+      </div>
+      <span
+        id="slr_update"
+      />
+      <div
+        id="update_status"
+      />
+    </div>
+    <div
+      className="slr_reservation room-3796 Confirmed"
+    >
+      <div
+        className="title"
+      >
+        Interviews
+      </div>
+      <div
+        className="name"
+      >
+        Full Name: 
+        undefined
+      </div>
+      <div
+        className="email"
+      >
+        Email: 
+        undefined
+      </div>
+      <div
+        className="how_many"
+      >
+        How many people? 
+        3
+      </div>
+      <div
+        className="room"
+      >
+        Room: 
+        undefined
+      </div>
+      <div
+        className="date"
+      >
+        Tuesday, April 26, 2022
+      </div>
+      <div
+        className="time"
+      >
+        11:00 PM
+         - 
+        1:00 PM
+      </div>
+      <div
+        className="status"
+      >
+        <span
+          id="slr_status"
+        >
+          Confirmed
+        </span>
+      </div>
+      <span
+        id="slr_update"
+      />
+      <div
+        id="update_status"
+      />
+    </div>
+    <div
+      className="slr_reservation room-3797 Confirmed"
+    >
+      <div
+        className="title"
+      >
+        Video Appointment
+      </div>
+      <div
+        className="name"
+      >
+        Full Name: 
+        undefined
+      </div>
+      <div
+        className="email"
+      >
+        Email: 
+        undefined
+      </div>
+      <div
+        className="how_many"
+      >
+        How many people? 
+        3
+      </div>
+      <div
+        className="room"
+      >
+        Room: 
+        undefined
+      </div>
+      <div
+        className="date"
+      >
+        Tuesday, April 26, 2022
+      </div>
+      <div
+        className="time"
+      >
+        1:00 PM
+         - 
+        3:00 PM
+      </div>
+      <div
+        className="status"
+      >
+        <span
+          id="slr_status"
+        >
+          Confirmed
+        </span>
+      </div>
+      <span
+        id="slr_update"
+      />
+      <div
+        id="update_status"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots ReservationList Empty 1`] = `
+<div
+  style={
+    Object {
+      "padding": "3rem",
+    }
+  }
+>
+  <div
+    className="reservation-list"
+  >
+    empty
+  </div>
+</div>
+`;
+
+exports[`Storyshots ReservationList Loading 1`] = `
+<div
+  style={
+    Object {
+      "padding": "3rem",
+    }
+  }
+>
+  <div
+    className="reservation-list"
+  >
+    loading
+  </div>
+</div>
+`;
+
+exports[`Storyshots ReservationList With Pinned Tasks 1`] = `
+<div
+  style={
+    Object {
+      "padding": "3rem",
+    }
+  }
+>
+  <div
+    className="reservation-list"
+  >
+    <div
+      className="slr_reservation room-3793 Confirmed"
+    >
+      <div
+        className="title"
+      >
+        Internal Use
+      </div>
+      <div
+        className="name"
+      >
+        Full Name: 
+        undefined
+      </div>
+      <div
+        className="email"
+      >
+        Email: 
+        undefined
+      </div>
+      <div
+        className="how_many"
+      >
+        How many people? 
+        3
+      </div>
+      <div
+        className="room"
+      >
+        Room: 
+        undefined
+      </div>
+      <div
+        className="date"
+      >
+        Tuesday, April 26, 2022
+      </div>
+      <div
+        className="time"
+      >
+        9:00 AM
+         - 
+        11:00 AM
+      </div>
+      <div
+        className="status"
+      >
+        <span
+          id="slr_status"
+        >
+          Confirmed
+        </span>
+      </div>
+      <span
+        id="slr_update"
+      />
+      <div
+        id="update_status"
+      />
+    </div>
+    <div
+      className="slr_reservation room-3796 Confirmed"
+    >
+      <div
+        className="title"
+      >
+        Interviews
+      </div>
+      <div
+        className="name"
+      >
+        Full Name: 
+        undefined
+      </div>
+      <div
+        className="email"
+      >
+        Email: 
+        undefined
+      </div>
+      <div
+        className="how_many"
+      >
+        How many people? 
+        3
+      </div>
+      <div
+        className="room"
+      >
+        Room: 
+        undefined
+      </div>
+      <div
+        className="date"
+      >
+        Tuesday, April 26, 2022
+      </div>
+      <div
+        className="time"
+      >
+        11:00 PM
+         - 
+        1:00 PM
+      </div>
+      <div
+        className="status"
+      >
+        <span
+          id="slr_status"
+        >
+          Confirmed
+        </span>
+      </div>
+      <span
+        id="slr_update"
+      />
+      <div
+        id="update_status"
+      />
+    </div>
+    <div
+      className="slr_reservation room-undefined undefined"
+    >
+      <div
+        className="title"
+      >
+        Task 6 (pinned)
+      </div>
+      <div
+        className="name"
+      >
+        Full Name: 
+        undefined
+      </div>
+      <div
+        className="email"
+      >
+        Email: 
+        undefined
+      </div>
+      <div
+        className="how_many"
+      >
+        How many people? 
+        undefined
+      </div>
+      <div
+        className="room"
+      >
+        Room: 
+        undefined
+      </div>
+      <div
+        className="date"
+      >
+        undefined
+      </div>
+      <div
+        className="time"
+      >
+        undefined
+         - 
+        undefined
+      </div>
+      <div
+        className="status"
+      >
+        <span
+          id="slr_status"
+        >
+          undefined
+        </span>
+      </div>
+      <span
+        id="slr_update"
+      />
+      <div
+        id="update_status"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Rez Awaiting 1`] = `
+<div
+  className="slr_reservation room-undefined RESERVATION_AWAITING"
+>
+  <div
+    className="title"
+  >
+    Test Rez
+  </div>
+  <div
+    className="name"
+  >
+    Full Name: 
+    John Doe
+  </div>
+  <div
+    className="email"
+  >
+    Email: 
+    john@example.com
+  </div>
+  <div
+    className="how_many"
+  >
+    How many people? 
+    2
+  </div>
+  <div
+    className="room"
+  >
+    Room: 
+    Shared Learning - 531
+  </div>
+  <div
+    className="date"
+  >
+    Tuesday, April 26, 2022
+  </div>
+  <div
+    className="time"
+  >
+    9:00 AM
+     - 
+    11:00 AM
+  </div>
+  <div
+    className="status"
+  >
+    <span
+      id="slr_status"
+    >
+      RESERVATION_AWAITING
+    </span>
+  </div>
+  <span
+    id="slr_update"
+  />
+  <div
+    id="update_status"
+  />
+</div>
+`;
+
+exports[`Storyshots Rez Confirmed 1`] = `
+<div
+  className="slr_reservation room-undefined RESERVATION_CONFIRMED"
+>
+  <div
+    className="title"
+  >
+    Test Rez
+  </div>
+  <div
+    className="name"
+  >
+    Full Name: 
+    John Doe
+  </div>
+  <div
+    className="email"
+  >
+    Email: 
+    john@example.com
+  </div>
+  <div
+    className="how_many"
+  >
+    How many people? 
+    2
+  </div>
+  <div
+    className="room"
+  >
+    Room: 
+    Shared Learning - 531
+  </div>
+  <div
+    className="date"
+  >
+    Tuesday, April 26, 2022
+  </div>
+  <div
+    className="time"
+  >
+    9:00 AM
+     - 
+    11:00 AM
+  </div>
+  <div
+    className="status"
+  >
+    <span
+      id="slr_status"
+    >
+      RESERVATION_CONFIRMED
+    </span>
+  </div>
+  <span
+    id="slr_update"
+  />
+  <div
+    id="update_status"
+  />
+</div>
+`;
+
+exports[`Storyshots Rez Default 1`] = `
+<div
+  className="slr_reservation room-undefined RESERVATION_AWAITING"
+>
+  <div
+    className="title"
+  >
+    Test Rez
+  </div>
+  <div
+    className="name"
+  >
+    Full Name: 
+    John Doe
+  </div>
+  <div
+    className="email"
+  >
+    Email: 
+    john@example.com
+  </div>
+  <div
+    className="how_many"
+  >
+    How many people? 
+    2
+  </div>
+  <div
+    className="room"
+  >
+    Room: 
+    Shared Learning - 531
+  </div>
+  <div
+    className="date"
+  >
+    Tuesday, April 26, 2022
+  </div>
+  <div
+    className="time"
+  >
+    9:00 AM
+     - 
+    11:00 AM
+  </div>
+  <div
+    className="status"
+  >
+    <span
+      id="slr_status"
+    >
+      RESERVATION_AWAITING
+    </span>
+  </div>
+  <span
+    id="slr_update"
+  />
+  <div
+    id="update_status"
+  />
+</div>
+`;
+
+exports[`Storyshots Rez Expired 1`] = `
+<div
+  className="slr_reservation room-undefined RESERVATION_EXPIRED"
+>
+  <div
+    className="title"
+  >
+    Test Rez
+  </div>
+  <div
+    className="name"
+  >
+    Full Name: 
+    John Doe
+  </div>
+  <div
+    className="email"
+  >
+    Email: 
+    john@example.com
+  </div>
+  <div
+    className="how_many"
+  >
+    How many people? 
+    2
+  </div>
+  <div
+    className="room"
+  >
+    Room: 
+    Shared Learning - 531
+  </div>
+  <div
+    className="date"
+  >
+    Tuesday, April 26, 2022
+  </div>
+  <div
+    className="time"
+  >
+    9:00 AM
+     - 
+    11:00 AM
+  </div>
+  <div
+    className="status"
+  >
+    <span
+      id="slr_status"
+    >
+      RESERVATION_EXPIRED
+    </span>
+  </div>
+  <span
+    id="slr_update"
+  />
+  <div
+    id="update_status"
+  />
+</div>
+`;
+
+exports[`Storyshots Task Archived 1`] = `
+<div
+  className="list-item TASK_ARCHIVED"
+>
+  <label
+    className="checkbox"
+  >
+    <input
+      defaultChecked={true}
+      disabled={true}
+      name="checked"
+      type="checkbox"
+    />
+    <span
+      aria-label="archiveTask-1"
+      className="checkbox-custom"
+      id="archiveTask-1"
+      onClick={[Function]}
+    />
+  </label>
+  <div
+    className="title"
+  >
+    <input
+      placeholder="Input title"
+      readOnly={true}
+      type="text"
+      value="Test Task"
+    />
+  </div>
+  <div
+    className="actions"
+    onClick={[Function]}
+  />
+</div>
+`;
+
+exports[`Storyshots Task Default 1`] = `
+<div
+  className="list-item TASK_INBOX"
+>
+  <label
+    className="checkbox"
+  >
+    <input
+      defaultChecked={false}
+      disabled={true}
+      name="checked"
+      type="checkbox"
+    />
+    <span
+      aria-label="archiveTask-1"
+      className="checkbox-custom"
+      id="archiveTask-1"
+      onClick={[Function]}
+    />
+  </label>
+  <div
+    className="title"
+  >
+    <input
+      placeholder="Input title"
+      readOnly={true}
+      type="text"
+      value="Test Task"
+    />
+  </div>
+  <div
+    className="actions"
+    onClick={[Function]}
+  >
+    <a
+      onClick={[Function]}
+    >
+      <span
+        aria-label="pinTask-1"
+        className="icon-star"
+        id="pinTask-1"
+      />
+    </a>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Task Pinned 1`] = `
+<div
+  className="list-item TASK_PINNED"
+>
+  <label
+    className="checkbox"
+  >
+    <input
+      defaultChecked={false}
+      disabled={true}
+      name="checked"
+      type="checkbox"
+    />
+    <span
+      aria-label="archiveTask-1"
+      className="checkbox-custom"
+      id="archiveTask-1"
+      onClick={[Function]}
+    />
+  </label>
+  <div
+    className="title"
+  >
+    <input
+      placeholder="Input title"
+      readOnly={true}
+      type="text"
+      value="Test Task"
+    />
+  </div>
+  <div
+    className="actions"
+    onClick={[Function]}
+  >
+    <a
+      onClick={[Function]}
+    >
+      <span
+        aria-label="pinTask-1"
+        className="icon-star"
+        id="pinTask-1"
+      />
+    </a>
+  </div>
+</div>
+`;
