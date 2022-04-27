@@ -1,0 +1,17 @@
+a:hover,
+a:focus,
+.link:hover,
+.link:focus {
+  text-decoration: none;
+  outline: 0;
+}
+
+a:hover,
+.link:hover {
+  color: #00609f;
+}
+a,
+a:active,
+.link:active {
+  color: #00339a;
+}
