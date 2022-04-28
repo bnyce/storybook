@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default function Footer({ footer: { id, title, state }, onArchiveTask, onPinTask }) {
+export default function Footer({ footer: { id, title, body, state }, onArchiveTask, onPinTask }) {
   return (
 <div class="content_footer">
   <div class="region region-content-footer">
