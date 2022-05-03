@@ -5,10 +5,21 @@ import './index.css';
 import registerServiceWorker from './registerServiceWorker';
 import reportWebVitals from './reportWebVitals';
 import { createStore } from 'redux';
-import app from './lib/store';
+//import app from './app/store';
+import { store } from './app/store';
 
-const store = createStore(app)
-store.dispatch({ type: 'CREATE_ITEM', payload: { title: 'first item' } });
+
+//import { fetchAuth } from './features/auth/authSlice'
+import { fetchEvent } from './components/eventSlice'
+//import { fetchSlrReservation, confirmSlrReservation } from './features/slrReservation/slrReservationSlice'
+
+const container = document.getElementById('root');
+const root = createRoot(container);
+  
+//store.dispatch(fetchAuth());
+store.dispatch(fetchEvent());
+
+
 
 ReactDOM.render(
  <Provider store={store}>
