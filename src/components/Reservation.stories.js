@@ -30,7 +30,7 @@ export const Awaiting = Template.bind({});
 Awaiting.args = {
   reservation: {
     ...Default.args.reservation,
-    status: 'RESERVATION_AWAITING',
+    status: 'Awaiting Confirmation',
 },
 };
 
